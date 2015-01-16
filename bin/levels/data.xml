@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<order> 
+<layer ID="SOL"></layer> 
+<layer ID="MID"></layer>
+<layer ID="COLLIDE"></layer> 
+<layer ID="UP"></layer> 
+<layer ID="EVENTS"></layer> 
+</order>
+	   
